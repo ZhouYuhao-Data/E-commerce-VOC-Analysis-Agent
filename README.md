@@ -37,11 +37,11 @@
 
 ### 🔍 痛点洞察 Agent 演示
 *(在下面插入你在 Dify 里跟机器人对话的成功截图)*
-![Agent Demo](images/知识库 Agent 对话.png)
+![Agent Demo](https://github.com/ZhouYuhao-Data/E-commerce-VOC-Analysis-Agent/blob/main/images/%E7%9F%A5%E8%AF%86%E5%BA%93%20Agent%20%E5%AF%B9%E8%AF%9D.png)
 
 ### ⚙️ Dify 工作流架构
 *(在下面插入你的 Dify 工作流截图)*
-![Dify Workflow](images/自动化处理表格工作流.png>)
+![Dify Workflow](https://github.com/ZhouYuhao-Data/E-commerce-VOC-Analysis-Agent/blob/main/images/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%A4%84%E7%90%86%E8%A1%A8%E6%A0%BC%E5%B7%A5%E4%BD%9C%E6%B5%81.png)
 
 ---
 
