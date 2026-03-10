@@ -37,13 +37,11 @@
 
 ### 🔍 痛点洞察 Agent 演示
 *(在下面插入你在 Dify 里跟机器人对话的成功截图)*
-![Agent Demo](<img width="1728" height="1042" alt="知识库 Agent 对话" src="https://github.com/user-attachments/assets/9a5cc4c1-6291-4fc8-8613-b998ca4c4d2c" />
-)
+![Agent Demo](images/知识库 Agent 对话.png)
 
 ### ⚙️ Dify 工作流架构
 *(在下面插入你的 Dify 工作流截图)*
-![Dify Workflow](<img width="1728" height="959" alt="自动化处理表格工作流" src="https://github.com/user-attachments/assets/d26a767e-6eb0-4073-ab0c-c8f4bde8de3b" />
-)
+![Dify Workflow](images/自动化处理表格工作流.png>)
 
 ---
 
